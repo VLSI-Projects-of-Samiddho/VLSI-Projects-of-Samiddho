@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=260&section=header&text=VLSI%20Projects%20and%20Notes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analog%20VLSI%20%7C%20CMOS%20Design%20%7C%20Embedded%20Systems&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=260&section=header&text=VLSI%20Projects%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analog%20VLSI%20%7C%20CMOS%20Design%20%7C%20Embedded%20Systems&descAlignY=60&descSize=20" />
 
 <br>
 
