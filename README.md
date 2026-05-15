@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=260&section=header&text=VLSI%20Projects%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analog%20VLSI%20%7C%20CMOS%20Design%20%7C%20Embedded%20Systems&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000428,50:004e92,100:00c6ff&height=260&section=header&text=VLSI%20and%20AIML%20Projects%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Analog%20VLSI%20%7C%20CMOS%20Design%20%7C%20Embedded%20Systems&descAlignY=60&descSize=20" />
 
 <br>
 
@@ -37,6 +37,7 @@ class VLSIEngineer:
             "Analog IC design",
             "Embedded Systems with Internet of Things",
             "Semiconductor Engineering",
+            "Artificial Intelligence and Machine Learning"
       ]
 
         
@@ -46,6 +47,7 @@ class VLSIEngineer:
             "Device Modelling",
             "SPICE Simulation",
             "EDA Workflows"
+            "ML, DL Models"
       ]
 
         self.languages = [
@@ -62,8 +64,7 @@ class VLSIEngineer:
             "MySQL",
       ]
 
-    def future_goal(self):
-        return "Become an Analog VLSI Design Engineer"
+
 ```
 
 ---
