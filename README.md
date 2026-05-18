@@ -161,7 +161,7 @@ class VLSIEngineer:
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VLSI-Projects-of-Samiddho&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VLSI-and-AIML-Projects-of-Samiddho&theme=tokyonight&hide_border=true&background=0D1117"/>
 
 </div>
 
@@ -170,6 +170,9 @@ class VLSIEngineer:
 #  Semiconductor Repositories
 
 Updated as and when made on the date
+
+# Artificial Intelligence and Machine Learning Repositories
+1. Customer Churn Analysis using ML Pipelining
 
 
 
