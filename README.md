@@ -172,7 +172,9 @@ class VLSIEngineer:
 Updated as and when made on the date
 
 # Artificial Intelligence and Machine Learning Repositories
-1. [Customer Churn Analysis using ML Pipelining] (https://github.com/VLSI-and-AIML-Projects-of-Samiddho/Customer-Churn-Analysis-using-ML-Pipelining)
+1. Customer Churn Analysis using ML Pipelining
+
+2. Music Recommender System using Spotify Dataset
 
 
 
